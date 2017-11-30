@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/TalkPythonTraining.iml" filepath="$PROJECT_DIR$/.idea/TalkPythonTraining.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Tensorflow/.idea/Tensorflow.iml" filepath="$PROJECT_DIR$/../Tensorflow/.idea/Tensorflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../checkio/.idea/checkio.iml" filepath="$PROJECT_DIR$/../checkio/.idea/checkio.iml" />
+    </modules>
+  </component>
+</project>
